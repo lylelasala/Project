@@ -1,0 +1,104 @@
+#btn__override {
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+
+}
+
+#nav__bg-color {
+    background-color: white;
+}
+
+.navbar-dark .navbar-brand {
+    color: blue;
+    width: 10%;
+    height: 5%;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: black;
+}
+
+.btn-form form {
+    padding: 0.5%;
+    float: right;
+    margin-right: 10px;
+    margin-left: auto;
+
+}
+
+.navbar-dark .navbar-nav .nav-link:focus,
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: blue
+}
+
+
+
+
+footer {
+    display: flex;
+    background-color: blue;
+    color:  #fff;
+    font-size: 1.5em;
+    text-align: center;
+    padding:3%;
+    margin-top: 10%;
+  }
+
+.btn-start{
+    background-color: green;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    border-radius: 8px;
+    height: 35px;
+    width: 13%;
+    margin-right: 6%;
+    padding: 8px;
+    justify-content: center;
+
+  }
+.btn-chat{
+    background-color: #fff;
+    text-align: center;
+    color: blue;
+    font-size: 14px;
+    border-radius: 8px;
+    height: 35px;
+    width: 13%;
+    margin-top: 5%;
+    padding: 8px;
+    justify-content: center;
+}
+.btn-content-signup{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    border-radius: 8px;
+    height: 35px;
+    width: auto;
+    margin-top: 5%;
+    padding: 8px;
+    justify-content: center;
+
+}
+.btn-content-chat{
+    background-color: #fff;
+    text-align: center;
+    color: blue;
+    font-size: 14px;
+    border-radius: 8px;
+    height: 35px;
+    width: auto;
+    margin-top: 5%;
+    border:2px solid blue ;
+    padding: 8px;
+    justify-content: center;
+}
+
+.content-h1{
+    font-family: Arial Rounded MT Bold;
+    margin-top: 5%;
+    font-size: 3em;
+}
